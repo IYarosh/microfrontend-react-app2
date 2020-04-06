@@ -2,7 +2,7 @@
   "name": "microfrontend-react-app2",
   "version": "1.0.0",
   "description": "Package based on microfrontend architecture. Will be included into microfrontend-react-root repo",
-  "main": "index.js",
+  "main": "dist/bundle.js",
   "scripts": {
     "start": "webpack && webpack-dev-server"
   },
